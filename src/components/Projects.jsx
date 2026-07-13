@@ -2,6 +2,20 @@ import { motion } from 'framer-motion'
 
 const projects = [
   {
+    title: 'Unsent Letters Web App',
+    description: 'A web app for creating and managing unsent letters, with features for saving drafts and scheduling sends. Built with React and Vite.',
+    tags: ['React', 'Node.js', 'Vite', 'Supabase', 'Tailwind CSS'],
+    github: 'https://github.com/jessicajohn23/catharsis-letters',
+    live: 'https://catharsis-letters-phi.vercel.app/',
+  },
+  {
+    title: 'AI Flashcard Generator',
+    description: 'AI-powered flashcard generator for creating and studying educational content. Built with Express.',
+    tags: ['Vanilla HTML', 'CSS', 'JavaScript', 'Supabase', 'Express', 'Groq'],
+    github: 'https://github.com/jessicajohn23/ai-flashcards',
+    live: 'https://ai-flashcards-topaz.vercel.app/',
+  },
+  {
     title: 'Real-time Collaborative Notes',
     description: 'Real-time collaborative notes web app where multiple users can edit the same note simultaneously. Built with Flask, Socket.IO, and SQLite.',
     tags: ['Flask', 'Socket.IO', 'SQLite', 'WebSockets'],

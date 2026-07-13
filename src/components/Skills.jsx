@@ -2,8 +2,8 @@ import { motion } from 'framer-motion'
 
 const skills = {
   'Languages': ['Python', 'JavaScript', 'C', 'SQL', 'HTML', 'CSS'],
-  'Frameworks & Libraries': ['Flask', 'SQLAlchemy', 'Socket.IO', 'Chart.js', 'React', 'Framer Motion'],
-  'Tools & Platforms': ['Git', 'GitHub', 'VS Code', 'Figma', 'AutoCAD', 'Render'],
+  'Frameworks & Libraries': ['Flask', 'SQLAlchemy', 'Socket.IO', 'Chart.js', 'React', 'Framer Motion', 'Tailwind CSS', 'Express', 'Vite'],
+  'Tools & Platforms': ['Git', 'GitHub', 'VS Code', 'Figma', 'AutoCAD', 'Render', 'Vercel', 'Supabase'],
   'Databases': ['SQLite', 'MySQL'],
 }
 
